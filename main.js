@@ -7,7 +7,7 @@
 const spnText = document.querySelector('.text');
 const spnCursor = document.querySelector('.cursor');
 const btn = document.querySelector("button")
-const txt = ['Siema, siema', 'Kurwa co tam', 'Ogień z kurwami!', 'Seks z pedałami']
+const txt = ['Hello', 'You are awesome', 'have a great day!']
 
 
 
